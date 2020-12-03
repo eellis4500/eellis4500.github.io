@@ -8,5 +8,8 @@ I've reworked alot of the elements in the code to fit the storyboard provided by
 
 As a side note, this is my first professional project, and I have thoroughly enjoyed working with the horiseon team and helping their site better fit their companie's goals.
 
-Images/sidebyside1.png
+Below are images of the asked for site in comparison to my completed version. Mine is the image on the right.
+
+![alt text](https://github.com/eellis4500/eellis4500.github.io/blob/main/Images/sidebyside1.png)
+![alt text](https://github.com/eellis4500/eellis4500.github.io/blob/main/Images/sidebyside2.png)
 
