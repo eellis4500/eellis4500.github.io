@@ -14,4 +14,4 @@ Below are images of the asked for site in comparison to my completed version. Mi
 ![alt text](https://github.com/eellis4500/eellis4500.github.io/blob/main/Images/sidebyside2.png)
 
 A link to the live site can be found here:
-https://eellis4500.github.io/#search-engine-optimization
+https://eellis4500.github.io/
