@@ -15,3 +15,5 @@ Below are images of the asked for site in comparison to my completed version. Mi
 
 A link to the live site can be found here:
 https://eellis4500.github.io/
+
+Significant time was spent simplifying the code in order to allow single classes of css to have maximum effect. I've also reordered much of the css code to better match the flow of the document.
