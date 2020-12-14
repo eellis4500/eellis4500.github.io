@@ -7,5 +7,7 @@ I've had alot of growth working on this project, and really feel like this has h
 As a side note, this is my first website that is completely of it's own code and design, and is not perfect, but represents the best I could do without needing outside help. 
 
 I've included images of the site and it's 3 pages and what the look like on large format screens.
-
+https://github.com/eellis4500/eellis4500.github.io/blob/main/assets/About%20Me.png
+https://github.com/eellis4500/eellis4500.github.io/blob/main/assets/Contact.png
+https://github.com/eellis4500/eellis4500.github.io/blob/main/assets/Portfolio.png
 A link to the site can be found here: https://eellis4500.github.io/
