@@ -1,19 +1,11 @@
-#INTO THE UNKNOWN - horiseon.com
+IT'S ALL ABOUT ME - my first personal website
 
-##Requirements
-A codebase that follows accessibility standards so that our own site is optimized for search engines.
+Requirements: A website that has the following functional elements: A navbar, A reponsive layout, and Responsive images.
 
-##Motivation
-I've reworked alot of the elements in the code to fit the storyboard provided by marketing of what the site should look like. Additionally I've left detailed notes about my changes, and have simplified the code in quite a few areas for others to see and more easily edit in the future.
+I've had alot of growth working on this project, and really feel like this has helped my CSS and HTML come on in force. Additionally bootstrap has been mindblowing, and the different elements and styles and how they can be incorporated makes it one of those tools you'll use for life.
 
-As a side note, this is my first professional project, and I have thoroughly enjoyed working with the horiseon team and helping their site better fit their companie's goals.
+As a side note, this is my first website that is completely of it's own code and design, and is not perfect, but represents the best I could do without needing outside help. 
 
-Below are images of the asked for site in comparison to my completed version. Mine is the image on the right.
+I've included images of the site and it's 3 pages and what the look like on large format screens.
 
-![alt text](https://github.com/eellis4500/eellis4500.github.io/blob/main/Images/sidebyside1.png)
-![alt text](https://github.com/eellis4500/eellis4500.github.io/blob/main/Images/sidebyside2.png)
-
-A link to the live site can be found here:
-https://eellis4500.github.io/
-
-Significant time was spent simplifying the code in order to allow single classes of css to have maximum effect. I've also reordered much of the css code to better match the flow of the document.
+A link to the site can be found here: https://eellis4500.github.io/
