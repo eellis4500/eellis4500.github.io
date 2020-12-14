@@ -12,3 +12,4 @@ I've included images of the site and it's 3 pages and what the look like on larg
 ![Test Image 1](https://github.com/eellis4500/eellis4500.github.io/blob/main/assets/Portfolio.png)
 
 A link to the site can be found here: https://eellis4500.github.io/
+Please Enjoy!
