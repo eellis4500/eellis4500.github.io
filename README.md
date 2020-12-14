@@ -8,6 +8,7 @@ As a side note, this is my first website that is completely of it's own code and
 
 I've included images of the site and it's 3 pages and what the look like on large format screens.
 ![Test Image 1](https://github.com/eellis4500/eellis4500.github.io/blob/main/assets/About%20Me.png)
-https://github.com/eellis4500/eellis4500.github.io/blob/main/assets/Contact.png
-https://github.com/eellis4500/eellis4500.github.io/blob/main/assets/Portfolio.png
+![Test Image 1](https://github.com/eellis4500/eellis4500.github.io/blob/main/assets/Contact.png)
+![Test Image 1](https://github.com/eellis4500/eellis4500.github.io/blob/main/assets/Portfolio.png)
+
 A link to the site can be found here: https://eellis4500.github.io/
